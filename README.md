@@ -12,3 +12,7 @@ Output: "yes" if multiple, "no" otherwise.
 Hint: You may need to use if/else statements
 Input: Two numbers.
 Output: '>', '<' or '='.
+207 Input two numbers(with space between) and show their average. (Hint: integer divided by integer gives an integer)
+
+Input: Two numbers.
+Output: Their average.
